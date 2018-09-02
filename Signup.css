@@ -1,0 +1,57 @@
+.Logo1 img{
+
+    height: 100px;
+    width: 100px;
+    margin-left: 750px;
+    margin-top: 80px;
+
+}
+
+.Logo1{
+
+    height: 0;
+    padding-bottom: 250px;
+
+}
+
+.Form1{
+
+    background-color:#CFD8DC;
+    height: 720px;
+    width: 800px;
+    margin-left: 400px;
+    margin-top: -100px;
+    margin-right: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 110px;
+    border-radius: 20px;
+
+}
+
+.Form1 input{
+    border-radius: 20px;
+}
+
+.Form1 button{
+    border-radius: 20px;
+}
+
+.Input-user1{
+
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+.Input-pass1{
+
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+.Btn-login1 button{
+    width: 100%;
+}
+

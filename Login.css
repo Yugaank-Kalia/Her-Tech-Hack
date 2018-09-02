@@ -1,0 +1,58 @@
+.Logo img{
+
+    height: 100px;
+    width: 100px;
+    margin-left: 720px;
+    margin-top: 100px;
+}
+
+.Form{
+
+    background-color:#CFD8DC;
+    height: 320px;
+    width: 400px;
+    margin-left: 570px;
+    margin-top: -25px;
+    margin-right: 400px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 110px;
+    border-radius: 20px;
+
+}
+
+.Form input{
+    border-radius: 20px;
+}
+
+.Form button{
+    border-radius: 20px;
+}
+
+.Input-user{
+
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+.Input-pass{
+
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+
+.Btn-login button{
+    width: 100%;
+}
+
+.Social{
+    padding-top: -10px;
+}
+
+p{
+    display: inline-block;
+    padding-right: 5px;
+
+}

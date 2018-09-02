@@ -1,0 +1,50 @@
+h1{
+    padding-right: 50px;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 5em;
+    font-weight: normal;
+    margin-bottom: 10;
+    margin-top: 2em;   
+
+}
+
+h2{
+
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 3em;
+    font-weight: normal;
+    margin-bottom: 0; 
+
+}
+
+.Button{
+
+    padding-top: 150px;
+    padding-bottom: 225px;
+    margin-left: 900px;
+
+}
+
+.Button button{
+
+    width: 150px;
+
+}
+
+.hack{
+
+    height: 20px;
+
+}
+
+.hack img{
+
+    height: 100px;
+    margin-left: 350px;
+    margin-bottom: 250px;
+
+}

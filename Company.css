@@ -1,0 +1,38 @@
+.card {
+    background: white;
+    width: 100%;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: left;
+}
+
+#card {
+    background: white;
+    width: 30%;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.con{
+    padding-left: 40%;
+}
+
+img {
+    border-radius: 5px 5px 0 0;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+}
+
+.container {
+    padding-top: 50px;
+}
+
+.btn{
+
+    padding-left: 85%;
+
+}
